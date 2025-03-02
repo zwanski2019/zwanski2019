@@ -62,7 +62,7 @@
 - 🤝 I’m looking for help with [Migwork](https://github.com/zwanski2019/migCourses)
 - 👨‍💻 All of my projects are available at [linktr.ee/zwanski](https://linktr.ee/zwanski)
 - 💬 Ask me about **exploitation, etc.**
-- 📫 How to reach me **[Telegram](https://t.me/zwanski_dz)**
+- 📫 How to reach me **[Telegram](https://t.me/zwanski)**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
 - ⚡ Fun fact: **Write code that humans understand as well!**
 
