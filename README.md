@@ -58,7 +58,7 @@
 - 🔭 I’m currently working on [DDos-zwanski](https://github.com/zwanski2019/DDOS-zwanski)
 - 🌱 I’m currently learning **how to build my own Flipper Zero at home**
 - 👯 I’m looking to collaborate on [Migwork](https://github.com/zwanski2019/migCourses)
-- 👯 I’m looking to collaborate on [Migwork](https://github.com/zwanski2019/ihstgroup)
+- 👯 I’m looking to collaborate on [IHSTGROUP](https://github.com/zwanski2019/ihstgroup)
 - 🤝 I’m looking for help with [Migwork](https://github.com/zwanski2019/migCourses)
 - 👨‍💻 All of my projects are available at [linktr.ee/zwanski](https://linktr.ee/zwanski)
 - 💬 Ask me about **exploitation, etc.**
