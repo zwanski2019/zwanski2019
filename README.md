@@ -17,9 +17,9 @@
 
 > "Dedicated Web Developer and IT Support Specialist with a strong foundation in cybersecurity and system administration"
 
-- 🏢 Currently: Co-working Space Manager at El Space Tunis
+- 🏢 Currently: Studeying at university of the people 
 - 🌐 Portfolio: [zwanski-store](https://zwanski2019.github.io/zwanski-store/)
-- 📧 Contact: mohaaibb4@proton.me
+- 📧 Contact: contact@zwanski.org
 - 📍 Location: Tunis, Tunisia
 
 ## 🛠️ Technical Skills
