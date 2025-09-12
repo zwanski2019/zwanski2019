@@ -17,7 +17,7 @@
 
 > "Dedicated Web Developer and IT Support Specialist with a strong foundation in cybersecurity and system administration"
 
-- 🏢 Currently: Studeying at university of the people 
+- 🏢 Currently: studying at university of the people 
 - 🌐 Portfolio: [zwanski-store](https://zwanski2019.github.io/zwanski-store/)
 - 📧 Contact: contact@zwanski.org
 - 📍 Location: Tunis, Tunisia
