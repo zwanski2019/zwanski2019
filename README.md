@@ -1,104 +1,231 @@
 <div align="center">
+
+```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗ 
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+```
+
+# 🛡️ MOHAMED IBRAHIM
+
+### `$ whoami` → Web Developer | Cybersecurity Specialist | IT Support Engineer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Web+Development;System+Hardening+%7C+Network+Security;Red+Hat+Certified+%7C+ISC2+Certified)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/cybersorcererss/cybersorcererss/main/resources/github-header-image.png" alt="Security Banner" width="100%">
+
+</div>
+
+---
+
+## 🎯 `./PROFILE.sh --about`
+
+```bash
+┌──[root@zwanski]─[~]
+└──╼ $ cat profile.txt
+```
+
+> **Mission Statement:** Securing digital infrastructure while crafting robust web solutions. Specializing in penetration testing, system hardening, and full-stack development.
+
+```yaml
+Current_Status: "Computer Science @ University of the People"
+Location: "Tunis, Tunisia 🇹🇳"
+Focus_Areas: ["Web Security", "Ethical Hacking", "System Administration"]
+Threat_Level: "White Hat" 
+Status: "Online ✓"
+```
+
+## 📡 `./CONTACT.sh --establish-connection`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-zwanski--store.pages.dev-00ff00?style=for-the-badge&labelColor=000000)](https://zwanski-store.pages.dev)
+[![Email](https://img.shields.io/badge/📧_SecureMail-mohaaibb4@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:mohaaibb4@proton.me)
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-contact@zwanski.org-ff0000?style=for-the-badge&labelColor=000000)](mailto:contact@zwanski.org)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
+[![Phone](https://img.shields.io/badge/📱_Signal-+216--94934141-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+21694934141)
+
+</div>
+
+---
+
+## 🛠️ `./ARSENAL.sh --display-tools`
+
+<div align="center">
+
+### ⚔️ Offensive Security & Penetration Testing
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 💻 Development & Programming
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🗄️ Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🖥️ Systems & Infrastructure
+![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔐 Security Tools & Frameworks
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🌐 CMS & E-Commerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 `./CREDENTIALS.sh --list-certs`
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  EDUCATION & PROFESSIONAL CERTIFICATIONS                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+- 🎯 **University of the People** → Computer Science (2020)
+- 🔐 **ISC2** → Cybersecurity Awareness Certification (2024)
+- 🗄️ **University of Michigan** → Database Design - PostgreSQL (2024)
+- 💻 **Kiron Open Higher Education** → Web Development (PHP, SQL, jQuery) (2025)
+- ⚔️ **Cybrary** → Kali Linux Penetration Testing (2021)
+- 🛡️ **Red Hat** → System Administration Certified
+
+---
+
+## 🚀 `./PROJECTS.sh --showcase`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔒 [Zwansave Dashboard](https://github.com/zwanski2019)
+```python
+# System Optimization Tool
+- Chrome extension
+- Memory & CPU optimization
+- Real-time performance metrics
+- Resource leak detection
+```
+**Tech:** `Python` `Chrome API` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🎯 [WordPress Security Scanner](https://github.com/zwanski2019)
+```php
+// Theme & Plugin Vulnerability Tracker
+- Automated security scanning
+- CVE detection
+- Update monitoring
+- Threat intelligence
+```
+**Tech:** `PHP` `REST API` `MySQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 [EurOrbit Weather System](https://zwanski2019.github.io/eurorbit)
+```javascript
+/* European Weather Platform */
+- Real-time weather data
+- Interactive mapping
+- API integration
+- Geolocation services
+```
+**Tech:** `JavaScript` `APIs` `HTML5` `CSS3`
+
+</td>
+<td width="50%">
+
+### 🛡️ [Zwanski Store](https://zwanski-store.pages.dev)
+```bash
+$ ./main_portfolio.sh
+# Professional Portfolio
+- Modern web design
+- Project showcase
+- Security-first approach
+- Responsive layout
+```
+**Tech:** `React` `Cloudflare Pages` `TailwindCSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 `./STATS.sh --generate-report`
+
+<div align="center">
   
-# Mohamed Ibrahim 👨‍💻
+<img src="https://github-readme-stats.vercel.app/api?username=zwanski2019&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zwanski2019&theme=black-ice&hide_border=true&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" width="49%" alt="GitHub Streak" />
 
-### Web Developer & IT Support Specialist
-[![Email](https://img.shields.io/badge/Email-mohaaibb4%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:mohaaibb4@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zwanski--store-green?style=flat-square&logo=github)](https://zwanski2019.github.io/zwanski-store/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
-[![Phone](https://img.shields.io/badge/Phone-%2B216--94934141-success?style=flat-square&logo=whatsapp)](tel:+21694934141)
-[![Location](https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-red?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Tunis)
-
-<img src="https://raw.githubusercontent.com/cybersorcererss/cybersorcererss/main/resources/github-header-image.png" alt="Profile Banner" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zwanski2019&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ff0000" width="98%" alt="Contribution Graph" />
 
 </div>
 
-## 🎯 About Me
+---
 
-> "Dedicated Web Developer and IT Support Specialist with a strong foundation in cybersecurity and system administration"
+## 🌍 `./LANGUAGES.sh --fluency-check`
 
-- 🏢 Currently: studying at university of the people 
-- 🌐 Portfolio: [zwanski-store](https://zwanski2019.github.io/zwanski-store/)
-- 📧 Contact: contact@zwanski.org
-- 📍 Location: Tunis, Tunisia
+```python
+languages = {
+    "English": "███████████████████░ 95% [FLUENT]",
+    "French":  "███████████████████░ 95% [FLUENT]",
+    "Arabic":  "███████████████░░░░░ 85% [PROFICIENT]",
+    "Berber":  "███████████████░░░░░ 85% [PROFICIENT]"
+}
+```
 
-## 🛠️ Technical Skills
+---
 
-<div align="center">
-
-### Programming & Web Development
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Systems & Tools
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento%202-%23EE672F.svg?style=for-the-badge&logo=magento&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=shield&logoColor=white)
-
-</div>
-
-## 🎓 Education & Certifications
-
-- **University of the People** - Computer Science (2020)
-- **Web Development** - PHP, SQL, jQuery (Kiron Open Higher Education, 2025)
-- **Cybersecurity Awareness** - ISC2 (2024)
-- **Database Design** - PostgreSQL (University of Michigan, 2024)
-- **Kali Linux Pentesting** - Cybrary (2021)
-
-## 💼 Recent Projects
-
-### [Zwansave Dashboard](https://github.com/zwanski2019)
-Chrome extension for memory and CPU optimization
-- 🛠️ Built with Python & Chrome Extensions API
-- 📈 Optimizes system performance
-
-### [WordPress Theme Tracker](https://github.com/zwanski2019)
-Tool for tracking WordPress themes and updates
-- 💻 Developed in PHP
-- 🔄 Automated update tracking
-
-### [EurOrbit](https://zwanski2019.github.io/eurorbit)
-European weather forecast tool
-- 🌤️ Live weather updates
-- 🗺️ Interactive European map
-
-## 📊 GitHub Stats
+## 🔗 `./NETWORK.sh --social-links`
 
 <div align="center">
-  <a href="https://github.com/zwanski2019">
-    <img src="https://github-readme-stats.vercel.app/api?username=zwanski2019&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/zwanski2019">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zwanski2019&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="49%" />
-  </a>
-</div>
 
-## 🌐 Languages
+[![GitHub](https://img.shields.io/badge/GitHub-zwanski2019-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zwanski2019)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zwanski--store.pages.dev-00ff00?style=for-the-badge&logo=firefox&logoColor=white)](https://zwanski-store.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ibrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-Secure_Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mohaaibb4@proton.me)
 
-- 🇬🇧 English (Fluent)
-- 🇫🇷 French (Fluent)
-- 🇦🇪 Arabic (Proficient)
-- 🇩🇿 Berber (Proficient)
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/zwanski2019"><img src="https://img.shields.io/badge/GitHub-zwanski2019-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:mohaaibb4@proton.me"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-b0801010b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </div>
 
 ---
 
 <div align="center">
-  
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  "In code we trust, in security we verify."                   ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 ![Visitor Count](https://profile-counter.glitch.me/zwanski2019/count.svg)
 
-</div>
+**⚡ System Status:** `ONLINE` | **🛡️ Security Level:** `MAXIMUM` | **💻 Mode:** `FULL_STACK`
 
+</div>
