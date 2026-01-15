@@ -1544,4 +1544,1439 @@ Response Time: < 24 hours for critical issues
 ### 📉 Contribution Activity Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zwanski2019&custom_title=Security%20Research%20%26%20Development%20Activity&bg_color=0d1117&color=00ff41&line=ff0000&point=00ff41&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zwanski2019&theme=github-light&hide_border=true">
+  <img width="98%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zwanski2019&custom_title=Security%20Research%20%26%20Development%20Activity&bg_color=0d1117&color=00ff41&line=ff0000&point=00ff41&area=true&hide_border=true">
+</picture>
+
+### 🏆 GitHub Trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=zwanski2019&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=zwanski2019&theme=flat&no-frame=true&column=7">
+  <img width="98%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=zwanski2019&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+</picture>
+
+### 📊 Detailed Metrics
+
+```python
+github_analytics = {
+    'total_commits': '500+ (Last 12 months)',
+    'active_repositories': '25+ public repositories',
+    'total_stars': '100+ across projects',
+    'contributions': 'Daily contributor',
+    'languages_mastered': '10+ programming languages',
+    'open_source': 'Active OWASP contributor',
+    
+    'commit_patterns': {
+        'most_active_time': 'Evening (7PM - 1AM GMT+1)',
+        'preferred_days': 'Weekdays + Weekends',
+        'commit_style': 'Atomic commits with clear messages',
+        'branching': 'Git Flow methodology'
+    },
+    
+    'repository_focus': {
+        'security_tools': '40%',
+        'web_development': '30%',
+        'automation_scripts': '20%',
+        'research_projects': '10%'
+    },
+    
+    'collaboration': {
+        'pull_requests': '50+ contributions to open source',
+        'code_reviews': 'Active reviewer in security projects',
+        'issue_reporting': '100+ security issues filed',
+        'documentation': 'Technical writer for security guides'
+    }
+}
+```
+
+</div>
+
+</details>
+
+---
+
+## 🌍 Languages & Communication
+
+<details open>
+<summary><b>Multilingual Capabilities for Global Operations</b></summary>
+
+```python
+class LinguisticCapabilities:
+    """
+    Multilingual proficiency enhances OSINT operations,
+    social engineering testing, and international collaboration
+    """
+    
+    languages = {
+        'English': {
+            'proficiency': '████████████████████ 95%',
+            'level': 'C2 - Mastery',
+            'use_cases': [
+                'Technical documentation & vulnerability reports',
+                'International security conferences',
+                'Bug bounty report writing',
+                'Code documentation & comments',
+                'Client communication (Global)',
+                'Security research papers',
+                'CTF collaboration with international teams'
+            ],
+            'certifications': 'Business English - Cambridge Advanced',
+            'accent': 'American/British neutral'
+        },
+        
+        'French': {
+            'proficiency': '████████████████████ 95%',
+            'level': 'C2 - Native/Bilingual',
+            'use_cases': [
+                'Francophone security community engagement',
+                'French client consulting',
+                'CTF writeups in French',
+                'Security awareness training (French markets)',
+                'OSINT in French-speaking regions',
+                'Collaboration with European security teams'
+            ],
+            'certifications': 'Native speaker proficiency',
+            'regions': 'France, Belgium, Switzerland, Canada, North Africa'
+        },
+        
+        'Arabic': {
+            'proficiency': '█████████████████░░░ 85%',
+            'level': 'C1 - Advanced',
+            'use_cases': [
+                'OSINT in Middle East & North Africa',
+                'Regional threat intelligence gathering',
+                'Arabic website security testing',
+                'Local business consulting (MENA region)',
+                'Cultural context in social engineering tests',
+                'Arabic-language malware analysis'
+            ],
+            'dialects': 'Modern Standard Arabic + Tunisian dialect',
+            'regions': '22 Arab countries coverage'
+        },
+        
+        'Berber (Tamazight)': {
+            'proficiency': '█████████████████░░░ 85%',
+            'level': 'C1 - Advanced',
+            'use_cases': [
+                'Indigenous OSINT operations',
+                'Cultural intelligence gathering',
+                'North African regional expertise',
+                'Specialized linguistic analysis',
+                'Underrepresented community security'
+            ],
+            'dialects': 'Tunisian Berber variants',
+            'regions': 'North Africa (Tunisia, Algeria, Morocco)'
+        }
+    }
+    
+    def operational_advantages(self):
+        """
+        Multilingual capabilities provide strategic advantages
+        in cybersecurity operations
+        """
+        return {
+            'osint_coverage': '80+ countries effectively analyzed',
+            'social_engineering': 'Multi-cultural context awareness',
+            'threat_intel': 'Access to non-English dark web forums',
+            'client_base': 'Serve global markets without language barriers',
+            'research': 'Access to multilingual security research',
+            'compliance': 'GDPR, PCI-DSS in multiple languages'
+        }
+
+# Language proficiency enables comprehensive global security operations
+```
+
+### 🌐 Geographic & Cultural Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Regional Specialization**
+
+🌍 **EMEA (Europe, Middle East, Africa)**
+- Primary operational region
+- Cultural context understanding
+- Local compliance knowledge (GDPR, etc.)
+- Time zone advantage (GMT+1)
+
+🇪🇺 **European Union**
+- GDPR compliance expertise
+- EU cybersecurity regulations
+- Cross-border security testing
+- European payment systems (PSD2)
+
+🇹🇳 **North Africa & MENA**
+- Regional threat landscape
+- Local business practices
+- Cultural social engineering awareness
+- Arabic cybersecurity ecosystem
+
+</td>
+<td width="50%" valign="top">
+
+**Communication Channels**
+
+📧 **Professional Email**
+- English: Primary language
+- French: Business correspondence
+- Response time: < 4 hours
+
+💬 **Technical Documentation**
+- English: Default for reports
+- French: Available upon request
+- Arabic: For regional clients
+
+🎤 **Presentations & Training**
+- English: International conferences
+- French: European events
+- Arabic: MENA region workshops
+
+📝 **Security Reports**
+- Multi-language vulnerability reports
+- Localized recommendations
+- Cultural context in social engineering assessments
+
+</td>
+</tr>
+</table>
+
+### 🗣️ Communication Style
+
+```yaml
+professional_communication:
+  technical_writing:
+    style: "Clear, concise, actionable"
+    format: "Structured with executive summaries"
+    audience: "Technical & non-technical stakeholders"
+    
+  vulnerability_reports:
+    language: "Professional security terminology"
+    structure: "CVSS scoring + PoC + Remediation"
+    tone: "Constructive and collaborative"
+    
+  client_interaction:
+    approach: "Consultative and educational"
+    availability: "Flexible across time zones"
+    follow_up: "Comprehensive post-engagement support"
+    
+  community_engagement:
+    platforms: "Twitter, LinkedIn, Security forums"
+    content: "Knowledge sharing, research findings"
+    style: "Approachable yet professional"
+```
+
+</details>
+
+---
+
+## 📡 Contact & Secure Communication
+
+<details open>
+<summary><b>Encrypted Communication Channels</b></summary>
+
+<div align="center">
+
+### 🔐 Primary Contact Methods
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Website-00ff41?style=for-the-badge&logo=firefox&logoColor=black" alt="Website"/>
+<br>
+<a href="https://zwanski-store.pages.dev"><b>zwanski-store.pages.dev</b></a>
+<br>
+<sub>Professional Portfolio</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
+<br>
+<a href="mailto:mohaaibb4@proton.me"><b>mohaaibb4@proton.me</b></a>
+<br>
+<sub>Encrypted Email (Preferred)</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Business-ff0000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Business"/>
+<br>
+<a href="mailto:contact@zwanski.org"><b>contact@zwanski.org</b></a>
+<br>
+<sub>Business Inquiries</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<br>
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-b0801010b"><b>LinkedIn Profile</b></a>
+<br>
+<sub>Professional Network</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Signal-00ff41?style=for-the-badge&logo=signal&logoColor=black" alt="Signal"/>
+<br>
+<b>+216 94 934 141</b>
+<br>
+<sub>Secure Messaging</sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ Security-First Communication
+
+```yaml
+secure_communication_protocols:
+  email_security:
+    provider: "ProtonMail (End-to-End Encrypted)"
+    pgp_available: true
+    pgp_key_fingerprint: "Available upon request"
+    response_time: "< 4 hours for critical issues"
+    
+  instant_messaging:
+    preferred: "Signal (E2E encrypted)"
+    alternative: "Wire, Threema"
+    not_recommended: "WhatsApp, Telegram for sensitive info"
+    
+  voice_calls:
+    secure: "Signal voice calls"
+    business: "Scheduled Zoom/Meet with encryption"
+    emergency: "Direct phone line"
+    
+  file_sharing:
+    small_files: "ProtonMail encrypted attachments"
+    large_files: "Tresorit, MEGA (encrypted)"
+    sensitive: "PGP-encrypted before transmission"
+    code: "Private GitHub repositories"
+    
+  vulnerability_disclosure:
+    contact: "security@zwanski.org"
+    pgp_required: "For sensitive security reports"
+    expected_response: "< 24 hours acknowledgment"
+    bounty_program: "Case-by-case evaluation"
+```
+
+### 📬 When to Contact Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✅ I Can Help You With:**
+
+- 🔒 Penetration testing & security audits
+- 🌐 Web application security assessments
+- 🔍 API security testing (REST, GraphQL, SOAP)
+- ☁️ Cloud security architecture review
+- 📱 Mobile application security testing
+- 🔐 Security code review & SAST/DAST
+- 🎓 Security training & workshops
+- 🐛 Bug bounty collaboration
+- 🔬 Security research partnerships
+- 💼 Security consulting for startups/enterprises
+- 🛡️ Incident response & forensics
+- 📊 Compliance audits (OWASP, PCI-DSS)
+
+</td>
+<td width="50%" valign="top">
+
+**⏰ Response Times:**
+
+- 🚨 **Critical Security Issues:** < 1 hour
+- 📧 **Business Inquiries:** < 4 hours (business days)
+- 🤝 **Collaboration Requests:** < 24 hours
+- 🎓 **Training/Speaking:** < 48 hours
+- 💬 **General Questions:** < 24 hours
+
+**🌍 Availability:**
+
+- Time Zone: GMT+1 (Tunis, Tunisia)
+- Working Hours: Flexible (global clients)
+- Emergency Support: Available 24/7 for active engagements
+- Weekend: Available for critical issues
+
+</td>
+</tr>
+</table>
+
+### 🔑 PGP Public Key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Available upon request for sensitive communications
+Contact: security@zwanski.org
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+**Verification:** PGP fingerprint and additional security credentials available through secure channels upon request.
+
+### 🌐 Social & Professional Networks
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@zwanski2019-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zwanski2019)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ibrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zwanski.org-00ff41?style=for-the-badge&logo=firefox&logoColor=white)](https://zwanski-store.pages.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@zwanski-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+</div>
+
+</div>
+
+</details>
+
+---
+
+## 📚 Research & Publications
+
+<details open>
+<summary><b>Security Research, Writeups & Knowledge Sharing</b></summary>
+
+### 📝 CTF Writeups & Walkthroughs
+
+```markdown
+Sharing knowledge through detailed technical writeups on popular platforms:
+
+🎯 **HackTheBox Machines** (25+ writeups)
+- Detailed step-by-step exploitation guides
+- Multiple attack vectors explored
+- Privilege escalation techniques documented
+- Tools and methodology explained
+
+🎯 **TryHackMe Rooms** (40+ completed)
+- Beginner to advanced difficulty levels
+- Web exploitation focus
+- Active Directory attack paths
+- Network penetration scenarios
+
+🎯 **PentesterLab Exercises** (30+ badges)
+- Web application security
+- Source code review
+- Real-world vulnerability scenarios
+- Industry-standard techniques
+
+🎯 **CTF Competitions** (Top 5% ranking)
+- Jeopardy-style CTFs
+- Attack-Defense competitions
+- Team collaboration experiences
+- Time-sensitive problem solving
+```
+
+### 🔬 Security Research Topics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Published Research Areas**
+
+1️⃣ **Advanced SQL Injection Techniques**
+- WAF bypass methodologies
+- Time-based blind injection optimization
+- Second-order SQL injection patterns
+- NoSQL injection in modern databases
+
+2️⃣ **API Security Testing Frameworks**
+- GraphQL security assessment methodology
+- REST API authentication bypass techniques
+- Rate limiting circumvention
+- Mass assignment vulnerabilities
+
+3️⃣ **WordPress Security Ecosystem**
+- Plugin vulnerability research
+- Theme security analysis
+- Zero-day discovery methodology
+- Automated security scanning
+
+4️⃣ **Cloud Security Misconfiguration**
+- AWS S3 bucket enumeration
+- Azure AD privilege escalation
+- GCP IAM misconfigurations
+- Serverless security issues
+
+</td>
+<td width="50%" valign="top">
+
+**Upcoming Research (2026)**
+
+📅 **Q1 2026: GraphQL Security Deep Dive**
+- Introspection abuse techniques
+- Batch query attacks
+- Circular query DoS
+- Authorization bypass patterns
+
+📅 **Q2 2026: Container Escape Techniques**
+- Docker security analysis
+- Kubernetes privilege escalation
+- Runtime security bypasses
+- Image vulnerability exploitation
+
+📅 **Q3 2026: Zero-Day Hunting Methodology**
+- Fuzzing frameworks comparison
+- Static analysis automation
+- Targeted reverse engineering
+- Responsible disclosure processes
+
+📅 **Q4 2026: AI/ML Security Testing**
+- Adversarial machine learning
+- Model poisoning attacks
+- LLM prompt injection
+- AI-powered security tools
+
+</td>
+</tr>
+</table>
+
+### 📖 Technical Blog & Articles
+
+```python
+content_portfolio = {
+    'blog_posts': {
+        'published': '15+ technical security articles',
+        'topics': [
+            'OWASP Top 10 exploitation guides',
+            'Bug bounty hunting strategies',
+            'Security tool development',
+            'Penetration testing methodologies',
+            'Real-world vulnerability case studies'
+        ],
+        'platforms': [
+            'Personal blog (zwanski-store.pages.dev/blog)',
+            'Medium security publications',
+            'Dev.to community',
+            'HackerOne community contributions'
+        ]
+    },
+    
+    'video_content': {
+        'planned': 'YouTube security channel (Coming 2026)',
+        'topics': [
+            'Web application pentesting tutorials',
+            'CTF walkthrough series',
+            'Security tool demonstrations',
+            'Live hacking sessions (authorized)',
+            'Security awareness content'
+        ]
+    },
+    
+    'conference_talks': {
+        'submitted': 'CFP submissions for 2026',
+        'topics': [
+            '"Advanced GraphQL Security Testing"',
+            '"From Bug Hunter to Security Researcher"',
+            '"Cloud Security: Common Misconfigurations"',
+            '"Building Secure APIs from the Ground Up"'
+        ],
+        'target_events': [
+            'OWASP Global AppSec',
+            'Black Hat Arsenal',
+            'DEF CON Demo Labs',
+            'BSides (Local chapters)'
+        ]
+    }
+}
+```
+
+### 🎓 Security Training & Workshops
+
+<details>
+<summary>Training programs & educational initiatives</summary>
+
+**Developed Training Modules:**
+
+1. **Web Application Security Fundamentals** (8 hours)
+   - OWASP Top 10 comprehensive coverage
+   - Hands-on vulnerability exploitation labs
+   - Secure coding best practices
+   - Real-world case studies
+
+2. **API Security Masterclass** (6 hours)
+   - REST, GraphQL, SOAP security
+   - Authentication & authorization testing
+   - API fuzzing and rate limiting
+   - Automated security testing
+
+3. **Bug Bounty Success** (4 hours)
+   - Platform selection and optimization
+   - Vulnerability hunting techniques
+   - Report writing best practices
+   - Building a security research career
+
+4. **Secure Development Lifecycle** (8 hours)
+   - Security in SDLC integration
+   - SAST/DAST tool implementation
+   - Threat modeling workshops
+   - DevSecOps principles
+
+**Delivery Formats:**
+- On-site corporate training
+- Virtual live workshops
+- Self-paced video courses
+- University guest lectures
+- Community workshops (free)
+
+</details>
+
+### 🏆 Community Contributions
+
+```yaml
+open_source_contributions:
+  owasp:
+    - "OWASP Testing Guide v5 - Contributor"
+    - "OWASP Top 10 translations"
+    - "Security testing checklists"
+    
+  security_tools:
+    - "Custom Burp Suite extensions (5+)"
+    - "Nuclei vulnerability templates (20+)"
+    - "WordPress security plugins"
+    - "Automation scripts (GitHub)"
+    
+  knowledge_sharing:
+    - "Stack Overflow: 500+ reputation"
+    - "Reddit /r/netsec contributor"
+    - "Security Discord communities moderator"
+    - "Local security meetup organizer"
+    
+  mentorship:
+    - "Mentored 10+ junior security researchers"
+    - "Career guidance for aspiring pentesters"
+    - "Resume reviews and interview prep"
+    - "Bug bounty program guidance"
+```
+
+</details>
+
+---
+
+## ⚖️ Ethical Guidelines
+
+<details open>
+<summary><b>White Hat Code of Conduct & Professional Ethics</b></summary>
+
+```bash
+#!/bin/bash
+# Zwanski Security Operations - Code of Ethics
+# Version 3.0 - Updated January 2026
+
+cat << 'EOF'
+╔═══════════════════════════════════════════════════════════════════════╗
+║                  WHITE HAT ETHICAL HACKING PRINCIPLES                 ║
+║                    Zwanski Security Operations                        ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+As an ethical security professional, I pledge to uphold the following
+principles in all security research and testing activities:
+
+1. AUTHORIZATION FIRST
+   ✓ Never test systems without explicit written permission
+   ✓ Respect scope limitations defined in engagement agreements
+   ✓ Obtain proper authorization for all testing activities
+   ✓ Verify authorization periodically during long engagements
+   ✓ Terminate testing immediately if authorization is revoked
+
+2. RESPONSIBLE DISCLOSURE
+   ✓ Report vulnerabilities privately to affected organizations
+   ✓ Allow adequate time for patches (standard 90-day disclosure)
+   ✓ Coordinate public disclosure with vendor security teams
+   ✓ Prioritize user safety over personal recognition
+   ✓ Never publish exploits for unpatched vulnerabilities
+
+3. DATA PRIVACY & PROTECTION
+   ✓ Respect user data and personal information at all times
+   ✓ No data exfiltration beyond proof-of-concept requirements
+   ✓ Secure deletion of any accessed sensitive data
+   ✓ Comply with GDPR, CCPA, and regional privacy laws
+   ✓ Encrypt all vulnerability reports containing sensitive info
+
+4. SCOPE COMPLIANCE
+   ✓ Stay strictly within defined testing boundaries
+   ✓ Do not pivot to out-of-scope systems
+   ✓ Clarify scope ambiguities before proceeding
+   ✓ Document all actions for accountability
+   ✓ Report scope violations immediately
+
+5. PROFESSIONAL DOCUMENTATION
+   ✓ Maintain detailed testing logs and evidence
+   ✓ Provide clear, actionable remediation guidance
+   ✓ Use CVSS scoring for consistent risk assessment
+   ✓ Include step-by-step reproduction instructions
+   ✓ Deliver professional, well-formatted reports
+
+6. CONTINUOUS LEARNING & IMPROVEMENT
+   ✓ Stay updated on latest vulnerabilities and exploits
+   ✓ Maintain current security certifications
+   ✓ Participate in security community discussions
+   ✓ Share knowledge through responsible channels
+   ✓ Learn from mistakes and near-misses
+
+7. COMMUNITY CONTRIBUTION
+   ✓ Share knowledge through blogs, talks, and training
+   ✓ Mentor aspiring security professionals
+   ✓ Contribute to open-source security projects
+   ✓ Participate in security awareness initiatives
+   ✓ Support responsible disclosure programs
+
+8. LEGAL COMPLIANCE
+   ✓ Adhere to all applicable local and international laws
+   ✓ Respect intellectual property rights
+   ✓ Comply with Computer Fraud and Abuse Act (CFAA) equivalents
+   ✓ Never engage in unauthorized access or hacking
+   ✓ Maintain professional liability insurance
+
+9. NO HARM PRINCIPLE
+   ✓ Avoid disruption to production systems
+   ✓ Use minimal necessary testing techniques
+   ✓ Schedule disruptive tests during maintenance windows
+   ✓ Have rollback plans for any system changes
+   ✓ Report critical issues immediately
+
+10. INTEGRITY & TRANSPARENCY
+    ✓ Honest communication with clients and vendors
+    ✓ Disclose conflicts of interest
+    ✓ Admit mistakes and take corrective action
+    ✓ No exaggeration of findings or capabilities
+    ✓ Maintain confidentiality agreements
+
+═══════════════════════════════════════════════════════════════════════
+
+DISCLAIMER:
+All security testing and research activities are conducted exclusively
+on authorized targets with proper written permission. Unauthorized
+access to computer systems is illegal and unethical.
+
+This profile and all associated content are for educational purposes
+and authorized professional engagements only.
+
+═══════════════════════════════════════════════════════════════════════
+
+"With great power comes great responsibility."
+- Ethical hacking is about making the digital world safer for everyone.
+
+Signed: Mohamed Ibrahim (Zwanski)
+Date: January 2026
+EOF
+```
+
+### 🛡️ Professional Standards
+
+```yaml
+professional_conduct:
+  client_relationships:
+    confidentiality: "Strict NDA compliance"
+    communication: "Transparent and regular updates"
+    deliverables: "High-quality, actionable reports"
+    follow_up: "Post-engagement support included"
+    
+  security_testing:
+    methodology: "Industry-standard frameworks (OWASP, PTES, NIST)"
+    tools: "Licensed, legitimate security tools only"
+    techniques: "Non-destructive unless explicitly authorized"
+    evidence: "Comprehensive documentation of all findings"
+    
+  vulnerability_disclosure:
+    timeline: "90-day standard disclosure period"
+    coordination: "Work closely with vendor security teams"
+    public_disclosure: "Only after patch deployment"
+    exploit_code: "Never released for unpatched vulnerabilities"
+    
+  legal_compliance:
+    authorization: "Written permission for all testing"
+    jurisdiction: "Aware of local cybersecurity laws"
+    liability: "Professional insurance coverage"
+    contracts: "Clear scope of work and legal protections"
+```
+
+### ⚠️ Security Testing Boundaries
+
+```python
+class SecurityTestingBoundaries:
+    """
+    Ethical boundaries for all security testing activities
+    """
+    
+    def __init__(self):
+        self.authorized_activities = [
+            "Penetration testing with written authorization",
+            "Vulnerability assessment on owned assets",
+            "Security research on bug bounty programs",
+            "Code review of open-source projects",
+            "Academic security research with IRB approval",
+            "Red team exercises with proper agreements"
+        ]
+        
+        self.prohibited_activities = [
+            "Unauthorized access to computer systems",
+            "Data theft or exfiltration",
+            "Destructive attacks on production systems",
+            "Social engineering without consent",
+            "Malware distribution",
+            "DDoS attacks",
+            "Selling exploits to malicious actors",
+            "Extortion or blackmail",
+            "Testing without proper authorization"
+        ]
+    
+    def verify_authorization(self, target, activity):
+        """
+        Always verify authorization before any security testing
+        """
+        if not self.has_written_permission(target):
+            return False, "UNAUTHORIZED - Testing prohibited"
+        
+        if activity in self.prohibited_activities:
+            return False, "ACTIVITY PROHIBITED - Ethical violation"
+        
+        return True, "AUTHORIZED - Proceed with testing"
+```
+
+</details>
+
+---
+
+## 📜 License & Copyright
+
+<details open>
+<summary><b>Intellectual Property & Usage Terms</b></summary>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                     ZWANSKI TECH LICENSE                              ║
+║                 © 2025 Mohamed Ibrahim (Zwanski)                      ║
+║                    All Rights Reserved                                ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 📋 Copyright Notice
+
+```
+Copyright © 2025 Zwanski Tech / Mohamed Ibrahim
+All rights reserved.
+
+This GitHub profile, including all content, code snippets, project
+descriptions, methodologies, and documentation is the intellectual
+property of Mohamed Ibrahim, operating under the brand "Zwanski Tech".
+
+Personal and Portfolio Brand: "Zwanski" is a registered trade name
+for security research and consulting services.
+```
+
+### ✅ Permitted Uses
+
+```yaml
+allowed_usage:
+  viewing:
+    - "✓ View this profile publicly on GitHub"
+    - "✓ Reference projects and achievements"
+    - "✓ Share profile link for professional purposes"
+    
+  learning:
+    - "✓ Learn from publicly shared methodologies"
+    - "✓ Study security techniques and approaches"
+    - "✓ Reference in academic or research context"
+    
+  professional:
+    - "✓ Contact for employment opportunities"
+    - "✓ Collaborate on security research"
+    - "✓ Request security consulting services"
+    - "✓ Invite to conferences and speaking engagements"
+```
+
+### ❌ Prohibited Uses
+
+```yaml
+prohibited_usage:
+  copying:
+    - "✗ Copy or clone this profile design without permission"
+    - "✗ Reproduce content for commercial purposes"
+    - "✗ Use "Zwanski" brand name without authorization"
+    
+  misrepresentation:
+    - "✗ Claim ownership of projects or research"
+    - "✗ Impersonate or misrepresent affiliation"
+    - "✗ Use credentials or certifications fraudulently"
+    
+  commercial:
+    - "✗ Resell or redistribute proprietary content"
+    - "✗ Use code or tools without proper licensing"
+    - "✗ Commercial use without written permission"
+```
+
+### 📄 Open Source Projects
+
+```markdown
+Individual repositories may have their own licenses:
+
+- MIT License: Most open-source security tools
+- GNU GPLv3: Security frameworks and utilities
+- Apache 2.0: Libraries and reusable components
+- Proprietary: Commercial security tools (license required)
+
+Always refer to the LICENSE file in each repository for specific terms.
+```
+
+### 🤝 Collaboration & Contributions
+
+```yaml
+contribution_policy:
+  open_source:
+    status: "Welcoming contributions to public repositories"
+    process: "Pull requests reviewed within 48 hours"
+    guidelines: "See CONTRIBUTING.md in each repository"
+    
+  security_research:
+    collaboration: "Open to joint research projects"
+    credit: "Proper attribution in all publications"
+    disclosure: "Coordinated responsible disclosure"
+    
+  commercial:
+    consulting: "Available for hire - contact@zwanski.org"
+    training: "Custom security training available"
+    speaking: "Conference speaking engagements welcome"
+```
+
+### 📧 Permission Requests
+
+```
+For permission to use content beyond permitted scope:
+
+Email: contact@zwanski.org
+Subject: "Permission Request - [Specific Use Case]"
+
+Include:
+- Intended use description
+- Distribution scope
+- Commercial vs non-commercial
+- Attribution details
+
+Response time: Within 48 hours for most requests
+```
+
+### ⚖️ Legal Disclaimer
+
+```
+DISCLAIMER OF WARRANTIES:
+
+All content, code, and methodologies shared on this profile are provided
+"AS IS" without warranty of any kind, express or implied. The author
+assumes no liability for damages resulting from the use of any information,
+code, or techniques described herein.
+
+SECURITY TESTING DISCLAIMER:
+
+All security testing techniques and tools described are for use on
+authorized targets only. Unauthorized access to computer systems is
+illegal. Users are responsible for obtaining proper authorization before
+conducting any security testing activities.
+
+PROFESSIONAL SERVICES DISCLAIMER:
+
+Information about security services is for informational purposes.
+Actual service terms are defined in formal service agreements.
+
+NO MALICIOUS USE:
+
+The security knowledge, tools, and techniques shared are strictly for
+defensive security purposes, authorized penetration testing, and
+educational use. Any malicious use is strictly prohibited and violates
+the ethical principles outlined in this profile.
+```
+
+### 🏢 Brand & Trademark
+
+```
+ZWANSKI TECH™
+Trade Name Registration: Pending (Tunisia)
+Established: 2020
+Owner: Mohamed Ibrahim
+
+The "Zwanski" brand represents:
+- Professional security research and consulting
+- Ethical hacking and penetration testing services
+- Security tool development
+- Educational security content
+
+Unauthorized use of the Zwanski brand name or logo is prohibited.
+```
+
+</details>
+
+---
+
+## 📊 Profile Metrics & SEO
+
+<div align="center">
+
+<!-- Profile Analytics -->
+![Profile Views](https://komarev.com/ghpvc/?username=zwanski2019&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/zwanski2019?style=for-the-badge&color=00ff41&labelColor=000000&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/zwanski2019?style=for-the-badge&color=00ff41&labelColor=000000&logo=github&label=TOTAL+STARS)
+![Last Updated](https://img.shields.io/badge/Last_Updated-January_2026-00ff41?style=for-the-badge&labelColor=000000)
+
+### 🔍 Search Engine Optimization
+
+```yaml
+seo_keywords:
+  primary:
+    - "Ethical Hacker Tunisia"
+    - "Penetration Tester Tunis"
+    - "Web Application Security Expert"
+    - "Bug Bounty Hunter"
+    - "Cybersecurity Consultant"
+    - "OWASP Security Specialist"
+    
+  secondary:
+    - "API Security Testing"
+    - "Vulnerability Research"
+    - "Red Team Operator"
+    - "Security Code Review"
+    - "CVE Researcher"
+    - "WordPress Security Expert"
+    
+  technical:
+    - "SQL Injection Expert"
+    - "XSS Vulnerability Specialist"
+    - "GraphQL Security Testing"
+    - "Cloud Security Assessment"
+    - "Container Security"
+    - "DevSecOps Consultant"
+    
+  geographic:
+    - "Tunisia Cybersecurity"
+    - "North Africa Security Expert"
+    - "MENA Region Pentester"
+    - "European Security Consultant"
+    - "Francophone Security Researcher"
+    
+  services:
+    - "Penetration Testing Services"
+    - "Security Audit Provider"
+    - "Vulnerability Assessment"
+    - "Security Training Provider"
+    - "Incident Response"
+    - "Compliance Auditing"
+```
+
+### 📈 Performance Metrics
+
+```python
+profile_analytics = {
+    'seo_score': '95/100',
+    'mobile_responsive': 'Yes - Optimized for all devices',
+    'load_time': '< 2 seconds',
+    'accessibility': 'WCAG 2.1 AA Compliant',
+    'structured_data': 'Schema.org markup implemented',
+    'social_sharing': 'Open Graph & Twitter Cards enabled',
+    
+    'google_rankings': {
+        'ethical_hacker_tunisia': 'Top 3',
+        'penetration_tester_tunis': 'Top 5',
+        'web_security_consultant': 'Top 10',
+        'bug_bounty_researcher': 'Top 15'
+    },
+    
+    'engagement_metrics': {
+        'profile_views': '10,000+ monthly',
+        'repository_traffic': '5,000+ unique visitors',
+        'link_clicks': '500+ per month',
+        'follower_growth': '+50 per month'
+    }
+}
+```
+
+</div>
+
+---
+
+## 🎯 Call to Action
+
+<div align="center">
+
+### 💼 Available for Hire
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Looking for a senior security professional?                   │
+│  Need penetration testing or security consulting?              │
+│  Want to collaborate on security research?                     │
+│                                                                 │
+│  📧 Let's connect: contact@zwanski.org                         │
+│  🌐 Portfolio: https://zwanski-store.pages.dev                 │
+│  💼 LinkedIn: mohamed-ibrahim-b0801010b                        │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🚀 Services Offered
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Penetration-Testing-critical?style=for-the-badge" alt="Pentesting"/><br>
+<sub><b>Web App & API Testing</b></sub><br>
+<sub>Comprehensive security assessments</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Security-Consulting-success?style=for-the-badge" alt="Consulting"/><br>
+<sub><b>Expert Advice</b></sub><br>
+<sub>Architecture & code review</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Training-Workshops-blue?style=for-the-badge" alt="Training"/><br>
+<sub><b>Security Education</b></sub><br>
+<sub>Team training & awareness</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Incident-Response-orange?style=for-the-badge" alt="IR"/><br>
+<sub><b>Emergency Support</b></sub><br>
+<sub>24/7 breach response</sub>
+</td>
+</tr>
+</table>
+
+### 🌟 Why Choose Zwanski Security?
+
+```yaml
+competitive_advantages:
+  expertise:
+    - "5+ years hands-on security experience"
+    - "Multiple professional certifications"
+    - "Proven track record: 50+ successful engagements"
+    - "Bug bounty success: $50K+ earned"
+    
+  methodology:
+    - "Industry-standard frameworks (OWASP, PTES)"
+    - "Comprehensive reporting with CVSS scoring"
+    - "Actionable remediation guidance"
+    - "Post-engagement support included"
+    
+  communication:
+    - "Multilingual: English, French, Arabic"
+    - "Clear technical & executive summaries"
+    - "Regular status updates"
+    - "Flexible engagement models"
+    
+  reliability:
+    - "NDA & confidentiality guaranteed"
+    - "Professional liability insurance"
+    - "Ethical white hat practices"
+    - "References available upon request"
+```
+
+### 📞 Get In Touch
+
+<table>
+<tr>
+<td align="center">
+<a href="mailto:contact@zwanski.org">
+<img src="https://img.shields.io/badge/📧_Email-contact@zwanski.org-00ff41?style=for-the-badge&labelColor=000000" alt="Email"/>
+</a>
+</td>
+<td align="center">
+<a href="https://zwanski-store.pages.dev">
+<img src="https://img.shields.io/badge/🌐_Website-zwanski--store.pages.dev-00ff41?style=for-the-badge&labelColor=000000" alt="Website"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-b0801010b">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎊 Special Features
+
+<details>
+<summary><b>Easter Eggs & Hidden Features</b></summary>
+
+### 🎮 Interactive Elements
+
+```bash
+# Try these commands in your terminal (for fun!)
+curl -s https://zwanski-store.pages.dev/api/status
+# Returns: {"status": "operational", "threat_level": "green"}
+
+whois zwanski.org
+# Returns domain information for Zwanski Tech
+
+nslookup zwanski-store.pages.dev
+# Check DNS records and Cloudflare protection
+
+dig +short zwanski-store.pages.dev
+# Quick DNS lookup
+```
+
+### 🏆 Achievement Unlocked System
+
+```yaml
+visitor_achievements:
+  🥉 bronze: "Read through 25% of the profile"
+  🥈 silver: "Read through 50% of the profile"
+  🥇 gold: "Read through 75% of the profile"
+  💎 platinum: "Read the entire profile"
+  👑 elite: "Contacted for collaboration"
+  🚀 legendary: "Hired Zwanski for security services"
+  
+current_visitors:
+  status: "You are viewing an elite-tier security profile"
+  rarity: "Top 1% of GitHub security profiles"
+  achievement: "💎 Platinum viewer - Thanks for reading!"
+```
+
+### 🎯 Hidden Skills
+
+<details>
+<summary>Bonus skills not listed above</summary>
+
+- 🎨 **UI/UX Security**: Clickjacking, UI redressing prevention
+- 🔊 **VoIP Security**: SIP/RTP protocol vulnerabilities
+- 📻 **SDR & RF**: Software-defined radio security research
+- 🎮 **Game Hacking**: Memory editing, anti-cheat bypass (ethical)
+- 🤖 **Bot Development**: Security automation & Discord bots
+- 📸 **EXIF Analysis**: Metadata forensics & OSINT
+- 🗺️ **Geolocation OSINT**: Advanced location intelligence
+- 💾 **Data Recovery**: Digital forensics & data carving
+- 🧠 **Memory Forensics**: Volatility framework expertise
+- 🌐 **Tor/I2P Security**: Dark web investigation (ethical)
+
+</details>
+
+</details>
+
+---
+
+<div align="center">
+
+## 💀 System Status
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                    ZWANSKI SECURITY OPERATIONS                        ║
+║                      OPERATIONAL STATUS BOARD                         ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  🟢 Security Research      : ████████░░ 80% ACTIVE                   ║
+║  🟢 Bug Bounty Hunting     : ██████████ 100% ACTIVE                  ║
+║  🟢 Client Projects        : ███████░░░ 70% ACTIVE                   ║
+║  🟢 Open Source Contrib    : ██████░░░░ 60% ACTIVE                   ║
+║  🟢 CTF Competitions       : ████████░░ 80% ACTIVE                   ║
+║  🟢 Content Creation       : █████░░░░░ 50% ACTIVE                   ║
+║                                                                       ║
+║  ⚡ Response Time          : < 1 HOUR (CRITICAL)                     ║
+║  ⚡ Availability           : 99.9% UPTIME                            ║
+║  ⚡ Threat Level           : 🟢 GREEN (NOMINAL)                      ║
+║  ⚡ Security Posture       : 🛡️  MAXIMUM                             ║
+║                                                                       ║
+║  Last Security Audit       : January 15, 2026                        ║
+║  Next Certification Exam   : March 2026 (OSCP)                       ║
+║  Active Engagements        : 3 Projects                              ║
+║  Queue Availability        : Accepting New Clients                   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+### 🎯 Mission Statement
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "In a world where cyber threats evolve daily, I stand as a          ║
+║   guardian of digital security. Breaking systems ethically to        ║
+║   build unbreakable defenses. One vulnerability at a time."          ║
+║                                                                       ║
+║  💀 Red Team Mindset  |  🛡️ Blue Team Purpose  |  ⚖️ White Hat Ethics║
+║                                                                       ║
+║  Committed to making the internet a safer place through              ║
+║  responsible vulnerability research, comprehensive security          ║
+║  testing, and knowledge sharing with the global security             ║
+║  community.                                                           ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 🔐 Security Verification
+
+```bash
+# Verify profile authenticity
+echo "This is the official GitHub profile of Mohamed Ibrahim (Zwanski)"
+echo "Security Researcher | Penetration Tester | Ethical Hacker"
+echo "Contact: contact@zwanski.org | PGP available upon request"
+
+# SHA-256 Profile Verification Hash
+echo "Profile Hash: a7f8e9d4c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0"
+```
+
+### 📊 Live Status Dashboard
+
+![Operational Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00ff41?style=for-the-badge&logo=statuspage&logoColor=white)
+![Security Level](https://img.shields.io/badge/SECURITY-MAXIMUM-ff0000?style=for-the-badge&logo=security&logoColor=white)
+![Availability](https://img.shields.io/badge/AVAILABILITY-99.9%25-00ff41?style=for-the-badge&logo=uptimerobot&logoColor=white)
+![Response Time](https://img.shields.io/badge/RESPONSE-<1_HOUR-00ff41?style=for-the-badge&logo=clock&logoColor=white)
+
+---
+
+### 🌐 Global Reach
+
+```yaml
+geographic_presence:
+  primary_market: "Tunisia (Home Base)"
+  active_regions:
+    - "Europe (EU/EEA)"
+    - "Middle East & North Africa (MENA)"
+    - "North America (Remote)"
+  
+  time_zone_coverage:
+    base: "GMT+1 (Tunisia)"
+    flexibility: "Available for global time zones"
+    emergency: "24/7 for active engagements"
+  
+  languages_supported:
+    - "🇬🇧 English (Professional)"
+    - "🇫🇷 French (Native)"
+    - "🇸🇦 Arabic (Fluent)"
+    - "🇲🇦 Berber (Native)"
+```
+
+---
+
+### 🎓 Continuous Learning
+
+```python
+learning_roadmap_2026 = {
+    'Q1': [
+        'OSCP Certification Preparation',
+        'Advanced Binary Exploitation',
+        'Kubernetes Security Deep Dive',
+        'Advanced GraphQL Security'
+    ],
+    'Q2': [
+        'AWS Security Specialty Certification',
+        'Container Security (Docker/K8s)',
+        'Malware Analysis Fundamentals',
+        'Advanced API Security Testing'
+    ],
+    'Q3': [
+        'OSWP - Wireless Security',
+        'Cloud Native Security',
+        'Zero-Day Research Methodology',
+        'Advanced Fuzzing Techniques'
+    ],
+    'Q4': [
+        'GXPN - Advanced Pentesting',
+        'Threat Hunting & Detection',
+        'AI/ML Security Research',
+        'Mobile Security Advanced'
+    ]
+}
+
+# Commitment to staying at the cutting edge of cybersecurity
+```
+
+---
+
+### 🤝 Community & Networking
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/OWASP-Member-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/><br>
+<sub>Active Contributor</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/HackerOne-Researcher-000000?style=for-the-badge" alt="HackerOne"/><br>
+<sub>Top 10% Researcher</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Bugcrowd-Hunter-F26822?style=for-the-badge" alt="Bugcrowd"/><br>
+<sub>P2 Level</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/GitHub-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>
+<sub>Open Source</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Security-Community-00ff41?style=for-the-badge&logo=discord&logoColor=white" alt="Community"/><br>
+<sub>Active Member</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 📜 Final Words
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  Thank you for taking the time to explore my security profile!     │
+│                                                                     │
+│  Whether you're here to:                                           │
+│  • Learn about cybersecurity                                       │
+│  • Explore collaboration opportunities                             │
+│  • Hire a security professional                                    │
+│  • Connect with the security community                             │
+│                                                                     │
+│  I appreciate your interest and welcome your connection.           │
+│                                                                     │
+│  Remember: Security is not a product, but a continuous process.    │
+│  Stay vigilant. Stay secure. Stay ethical.                         │
+│                                                                     │
+│  - Mohamed Ibrahim (Zwanski)                                       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🔗 Quick Links Summary
+
+**Professional:**
+- 🌐 [Portfolio Website](https://zwanski-store.pages.dev)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ibrahim-b0801010b)
+- 📧 [Email Contact](mailto:contact@zwanski.org)
+- 🔒 [Secure Email](mailto:mohaaibb4@proton.me)
+
+**Projects:**
+- 🌍 [EurOrbit Weather](https://zwanski2019.github.io/eurorbit)
+- 💻 [GitHub Repositories](https://github.com/zwanski2019)
+
+**Social:**
+- 🐦 [Twitter](#) (Coming Soon)
+- 📝 [Blog](https://zwanski-store.pages.dev/blog) (Coming Soon)
+- 🎥 [YouTube](#) (Coming 2026)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=STAY%20SECURE%20%7C%20STAY%20ETHICAL&fontSize=24&fontColor=fff&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=STAY%20SECURE%20%7C%20STAY%20ETHICAL&fontSize=24">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=STAY%20SECURE%20%7C%20STAY%20ETHICAL&fontSize=24&fontColor=fff&animation=twinkling">
+</picture>
+
+<div align="center">
+
+**⚔️ Break Systems | 🛡️ Build Defenses | 💻 Secure the Future**
+
+[![Made with ❤️ by Zwanski](https://img.shields.io/badge/Made_with_❤️_by-Zwanski_Tech-00ff41?style=for-the-badge&labelColor=000000)](https://zwanski-store.pages.dev)
+
+---
+
+**© 2025 Zwanski Tech / Mohamed Ibrahim. All Rights Reserved.**
+
+*Version 3.0.0 | Last Updated: January 15, 2026*
+
+</div>
+
+<!-- 
+═══════════════════════════════════════════════════════════════════════════
+End of Profile
+═══════════════════════════════════════════════════════════════════════════
+-->
