@@ -35,6 +35,11 @@
 
 ## `// 01 — ARSENAL`
 
+<details>
+<summary><b>🛠️ Click to view complete toolset</b></summary>
+
+<br>
+
 <div align="center">
 
 ### 🛠️ **Primary Tools**
@@ -68,9 +73,16 @@
 
 </div>
 
+</details>
+
 ---
 
 ## `// 02 — EXPERTISE`
+
+<details>
+<summary><b>💡 Click to view complete attack surface mapping</b></summary>
+
+<br>
 
 ```yaml
 # ══════════════════════════════════════════════════════════════
@@ -200,9 +212,16 @@ custom_tooling:
   - report-gen:       Automated PoC generator
 ```
 
+</details>
+
 ---
 
 ## `// 03 — METHODOLOGY`
+
+<details>
+<summary><b>🎯 Click to view complete hunting workflow</b></summary>
+
+<br>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -308,6 +327,8 @@ custom_tooling:
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
+</details>
+
 ---
 
 ## `// 04 — ACHIEVEMENTS & HIGHLIGHTS`
@@ -372,6 +393,11 @@ custom_tooling:
 
 ## `// 07 — CURRENT FOCUS`
 
+<details>
+<summary><b>🔍 Click to view current priorities and learning roadmap</b></summary>
+
+<br>
+
 ```python
 #!/usr/bin/env python3
 # zwanski_status.py
@@ -413,9 +439,16 @@ if __name__ == "__main__":
     print(f"[*] Primary Focus: {', '.join(hunter.primary_targets)}")
 ```
 
+</details>
+
 ---
 
 ## `// 08 — TOOLBOX REPOSITORIES`
+
+<details>
+<summary><b>🧰 Click to view custom tools and repositories</b></summary>
+
+<br>
 
 <div align="center">
 
@@ -429,6 +462,8 @@ if __name__ == "__main__":
 | **nuclei-templates** | Custom vulnerability templates | YAML | 🟢 Active |
 
 </div>
+
+</details>
 
 ---
 
@@ -464,6 +499,11 @@ if __name__ == "__main__":
 
 ## `// 10 — CODE OF CONDUCT`
 
+<details>
+<summary><b>⚖️ Click to view ethical hacking principles</b></summary>
+
+<br>
+
 <div align="center">
 
 ```
@@ -482,6 +522,8 @@ if __name__ == "__main__":
 ```
 
 </div>
+
+</details>
 
 ---
 
