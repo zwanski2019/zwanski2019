@@ -1230,19 +1230,19 @@ if __name__ == "__main__":
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║                      CONNECT WITH ME                        ║
+║                      CONNECT WITH ME                       ║
 ╠════════════════════════════════════════════════════════════╣
-║                                                             ║
+║                                                            ║
 ║  📱  Telegram     →  @zwanski                              ║
 ║  🔐  Signal       →  xzwnsk2019.01                         ║
 ║  🌐  Portfolio    →  zwanski-store.pages.dev               ║
 ║  💻  GitHub       →  github.com/zwanski2019                ║
-║  🐦  Twitter/X    →  @zwanski_m                ║
-║  📧  Email        →  [LOoodingggg :)]               ║
-║                                                             ║
+║  🐦  Twitter/X    →  @zwanski_m                            ║
+║  📧  Email        →  [LOoodingggg :)]                      ║
+║                                                            ║
 ║  🤝  Collaboration: Open to team-ups & knowledge sharing   ║
 ║  💼  Consultancy: Available for security assessments       ║
-║                                                             ║
+║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
