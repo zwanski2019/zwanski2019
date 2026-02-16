@@ -1237,8 +1237,8 @@ if __name__ == "__main__":
 ║  🔐  Signal       →  xzwnsk2019.01                         ║
 ║  🌐  Portfolio    →  zwanski-store.pages.dev               ║
 ║  💻  GitHub       →  github.com/zwanski2019                ║
-║  🐦  Twitter/X    →  [Available on request]                ║
-║  📧  Email        →  [Via platform messages]               ║
+║  🐦  Twitter/X    →  @zwanski_m                ║
+║  📧  Email        →  [LOoodingggg :)]               ║
 ║                                                             ║
 ║  🤝  Collaboration: Open to team-ups & knowledge sharing   ║
 ║  💼  Consultancy: Available for security assessments       ║
